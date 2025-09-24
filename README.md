@@ -1,2 +1,2 @@
 # gamalloc
-C++ allocator library for games and game engines
+C++ memory allocation framework for high-performance using multiple memory backends.
